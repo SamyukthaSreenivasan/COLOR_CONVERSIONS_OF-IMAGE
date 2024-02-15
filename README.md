@@ -39,12 +39,7 @@ Split and merge HSV Image
 ### Developed By:Samyuktha S
 ### Register Number: 212222240089
 
-
-```
-<table>
-  <tr>
-    <td width=50%>
-
+### OUTPUT:
 ### i) Read and display the image
 ```Python
 import cv2
