@@ -36,16 +36,34 @@ Split and Merge RGB Image
 Split and merge HSV Image
 
 ##### Program:
-### Developed By:
-### Register Number: 
+### Developed By:Samyuktha S
+### Register Number: 212222240089
 
 
 ## Output:
 
 ### i) Read and display the image
+```Python
+import cv2
+image = cv2.imread(r'C:\Users\SEC\Pictures\Screenshots\nat.jpg')
+resized_image = cv2.resize(image, (200, 300))
+cv2.imshow('Samyuktha', resized_image)    
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+``` 
+  </td>
+  <td>
 
-<br>
-<br>
+### OUTPUT:
+![m2](https://github.com/SamyukthaSreenivasan/COLOR_CONVERSIONS_OF-IMAGE/assets/119475703/d0ad2299-e7db-4035-8a13-d892f6958cd4)
+
+ 
+  </td>
+  </tr>
+
+   <tr>
+    <td width=50%>
+
 
 ### ii)Write the image
 
