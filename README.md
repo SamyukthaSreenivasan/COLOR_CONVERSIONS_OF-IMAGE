@@ -82,6 +82,7 @@ cv2.imwrite('demos.jpg',image)
 
    <tr>
     <td width=50%>
+      
 ### iii)Shape of the Image
 ```Python
 import cv2
@@ -194,6 +195,7 @@ cv2.destroyAllWindows()
 
    <tr>
     <td width=50%>
+      
 ### vii) HSV to RGB and BGR
 ```Python
 import cv2
