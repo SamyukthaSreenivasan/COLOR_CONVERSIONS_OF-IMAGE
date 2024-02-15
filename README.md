@@ -40,7 +40,10 @@ Split and merge HSV Image
 ### Register Number: 212222240089
 
 
-## Output:
+```
+<table>
+  <tr>
+    <td width=50%>
 
 ### i) Read and display the image
 ```Python
